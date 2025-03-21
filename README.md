@@ -1,1 +1,1 @@
-# .github
+# Russian Ranked Bedwars
